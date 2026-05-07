@@ -20,13 +20,17 @@
 
 <h1 align="center">Hey There ! 👋</h1>
 
+<blockquote>
+  <p><strong>Did you know?</strong><br>
+  My username comes from <strong>Myling</strong>, a spirit from the game <em>Phasmophobia</em> 👻</p>
+</blockquote>
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 <p align="left">
-I'm Léo from France<br><br>
 - 🔭 I’m working as Customer Support Volunteer at Alfie Web Solutions<br>
 - 📚 I'm currently learning malware analysis & reverse engineering<br>
 - ⚡ In my free time, I decompile and reverse malware to analyze and expose them
