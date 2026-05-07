@@ -18,15 +18,19 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There ! 👋</h1>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+I'm Léo from France<br><br>
+- 🔭 I’m working as Customer Support Volunteer at Alfie Web Solutions<br>
+- 📚 I'm currently learning malware analysis & reverse engineering<br>
+- ⚡ In my free time, I decompile and reverse malware to analyze and expose them
+</p>
 
 ###
 
