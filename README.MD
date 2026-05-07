@@ -5,9 +5,9 @@
 ###
 
 <div align="center">
-  <a href="https://discord.dog/id"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5765F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
-  <a href="https://t.me/WrongHorse9777"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=23AAEA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=E-mail%20Me&logo=gmail&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="biolink logo"  />
+  <a href="https://discord.dog/id"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5765F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /> </a>
+  <a href="https://t.me/WrongHorse9777"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=23AAEA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  /> </a>
+  <a href="mail-to:contact@ethone.eu"><img src="https://img.shields.io/static/v1?message=E-mail%20Me&logo=gmail&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="mail logo"  /> </a>
 </div>
 
 ###
