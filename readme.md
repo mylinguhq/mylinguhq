@@ -13,7 +13,7 @@
       <ul>
         <li>i code (sometimes)</li>
         <li>i got more private repos than braincells</li>
-        <li>🐈</li>
+        <li>🐕</li>
       </ul>
     </td>
     <td style="vertical-align: middle;">
